@@ -1,7 +1,7 @@
 # SmartHome
 
 ## React, JS, Vite, Java, Spring Boot, PostgreSQL
-
+## Currently it is not hosted.
 This is a university project that has basic CRUD features that handle an e-commerce shop.
 
 Features:
